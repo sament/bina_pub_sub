@@ -1,16 +1,17 @@
-# PubSubDemo
+# BinaPubSub
 
-**TODO: Add description**
+A simple PubSub application.
+
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `pub_sub_demo` to your list of dependencies in `mix.exs`:
+by adding `bina_sub_demo` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:pub_sub_demo, "~> 0.1.0"}
+    {:bina_sub_demo, "~> 0.1.0"}
   ]
 end
 ```
